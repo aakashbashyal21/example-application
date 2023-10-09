@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0oT3TY2bIvpLQjsyYCXlXjwqd/gHL4tohUxfrpYdYxgWQQFR6uqSQPvJ77L4rdInqP9gF2HOZSNeaqixtoBFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victus\\source\\repos\\OshoPedia-Docoker\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
